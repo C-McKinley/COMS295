@@ -11,9 +11,9 @@ import java.io.BufferedInputStream;
 class Main {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(new BufferedInputStream(System.in));
-		int rows;// = scan.nextInt();
-		int cols;// = scan.nextInt();
-		char[][] grid;// = new char[rows][cols];
+		int rows;
+		int cols;
+		char[][] grid;
 		String inputLine;
 		int counter = 1;
 		while(true) {
