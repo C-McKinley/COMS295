@@ -1,5 +1,12 @@
 import java.util.*;
 import java.math.*;
+/**
+* @author Colby McKinley
+* @UVa_ID colby_mckinley
+* @JUDGE_ID: 922619
+* @Problem_ID: 12004 - Bubble Sort
+*
+*/
 class Main {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
